@@ -1,3 +1,3 @@
-[
+{"products":[
     {"title": " test 123", "price": "123.90", "description": "desc here", "normalPrice": "100.99", "color": ["red", "green", "blue"], "size": ["M", "L", "XL"]}
-]
+]}
